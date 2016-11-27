@@ -18,6 +18,8 @@
     - [Homebrew Cask](#homebrew-cask) - 通过命令行安装Mac软件的工具。
     - [Alfred](#Alfred) - 效率启动器。
     - [sequel-pro](#sequel-pro) - 一个MySQL数据库管理软件。
+- [Awesome Chrome](#awesome-chrome)
+    - [Octotree](#Octotree) - 树形展示 Github 项目代码
 - [Awesome Repository](#awesome-repository)
     - [laracasts](https://laracasts.com) - Laravel视频网站。
     - [stackoverflow](http://stackoverflow.com) - 一个与程序相关的IT技术问答网站。
