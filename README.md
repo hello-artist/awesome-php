@@ -14,10 +14,11 @@
     - [Atom](https://atom.io) - GitHub推出的开源编辑器。
     - [FileZilla](#FileZilla) - 跨平台的FTP，FTPS和SFTP客户端。
     - [iTerm2](http://www.iterm2.com/#/section/documentation) - 免费的终端工具，直接替代自带的Terminal，有非常多惊人的特性。
-    - [Oh My Zsh](http://ohmyz.sh) - 拥有大量的有用的功能，助手，插件，主题，等特性的命令行工具插件。
+    - [Oh My Zsh](#http://ohmyz.sh) - 拥有大量的有用的功能，助手，插件，主题，等特性的命令行工具插件。
     - [Homebrew Cask](#homebrew-cask) - 通过命令行安装Mac软件的工具。
     - [Alfred](#Alfred) - 效率启动器。
     - [sequel-pro](#sequel-pro) - 一个MySQL数据库管理软件。
+    - [Frank DeLoupe](#Frank DeLoupe) - color-picking
 - [Awesome Chrome](#awesome-chrome)
     - [Octotree](#Octotree) - 树形展示 Github 项目代码
 - [Awesome Repository](#awesome-repository)
@@ -25,4 +26,3 @@
     - [stackoverflow](http://stackoverflow.com) - 一个与程序相关的IT技术问答网站。
     - [EMOJI CHEAT SHEET](http://www.webpagefx.com/tools/emoji-cheat-sheet)
     - [PhpStorm Themes](http://www.phpstorm-themes.com)
-    
