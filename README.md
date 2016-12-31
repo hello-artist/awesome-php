@@ -19,6 +19,7 @@
     - [Alfred](#Alfred) - 效率启动器。
     - [sequel-pro](#sequel-pro) - 一个MySQL数据库管理软件。
     - [Frank DeLoupe](#Frank DeLoupe) - color-picking
+    - [GitHub Desktop](https://desktop.github.com) - 使用GitHub的GUI应用。
 - [Awesome Chrome](#awesome-chrome)
     - [Octotree](#Octotree) - 树形展示 Github 项目代码
 - [Awesome Repository](#awesome-repository)
